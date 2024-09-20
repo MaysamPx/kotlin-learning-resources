@@ -29,6 +29,7 @@
 - [Kotlin Backend Developer (Spring Boot)](https://hyperskill.org/courses/37-kotlin-backend-developer-spring-boot)
 
 - [Kotlin - Pluralsight](https://www.pluralsight.com/paths/kotlin-1)
+- [Kotlin by Jetbrains Youtube Channel](https://www.youtube.com/@Kotlin)
 
 ### Books
 
