@@ -1,4 +1,5 @@
 # Kotlin learning resources for Java developers
+A curated list of learning resources for Java Developers interested in learning Kotlin. 
 
  ## Short-term Plan
 
