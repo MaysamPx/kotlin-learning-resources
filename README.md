@@ -20,6 +20,7 @@ A curated list of learning resources for Java Developers interested in learning 
 - [Kotlin: Spring Boot and Kotlin](https://kotlinlang.org/docs/jvm-get-started-spring-boot.html)
 
 - [Kotlin Spring Tutorial](https://www.baeldung.com/kotlin/spring-series)
+- [Coding Conventions - Kotlin Documentation](https://kotlinlang.org/docs/coding-conventions.html)
 
 ## Long-term Plan
 
