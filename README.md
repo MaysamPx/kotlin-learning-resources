@@ -21,6 +21,7 @@ A curated list of learning resources for Java Developers interested in learning 
 
 - [Kotlin Spring Tutorial](https://www.baeldung.com/kotlin/spring-series)
 - [Coding Conventions - Kotlin Documentation](https://kotlinlang.org/docs/coding-conventions.html)
+- [Kotlin Feature Maps](https://resources.jetbrains.com/storage/products/kotlin/docs/Kotlin_Language_Features_Map.pdf)
 
 ## Long-term Plan
 
