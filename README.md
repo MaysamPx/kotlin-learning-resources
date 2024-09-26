@@ -25,6 +25,7 @@ A curated list of learning resources for Java Developers interested in learning 
 
 ### Articles 
 - [Mastering Kotlin Coroutines - Medium](https://medium.com/hprog99/mastering-kotlin-coroutines-with-practical-examples-1544e0bdbd64)
+- [Destructuring in Kotlin](https://medium.com/@rajputmukesh748/destructuring-in-kotlin-explained-with-examples-7928c83177b5)
 
 ## Long-term Plan
 
